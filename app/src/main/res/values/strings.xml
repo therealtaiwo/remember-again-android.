@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remember</string>
+    <string name="select_photo">Select photo</string>
+    <string name="select_model">Import BOPBTL .pte model</string>
+    <string name="detect_scratches">Detect scratches</string>
+    <string name="no_photo">Select a photo to begin.</string>
+    <string name="no_model">Import a compiled BOPBTL ExecuTorch model first.</string>
+</resources>
